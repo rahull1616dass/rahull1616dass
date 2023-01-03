@@ -1,6 +1,6 @@
 ### Hey there 👋
   
-<h2>I'm Rahul an eager xr developer</h2>
+<h2>I'm Rahul an eager XR developer</h2>
 
 [![Rahul Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahuldas-0bb099b4/)
 
