@@ -2,7 +2,7 @@
   
 <h2>I'm Rahul an eager XR developer</h2>
 
-[![Rahul Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahuldas-0bb099b4/)
+[![Rahul Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-das-0bb099b4/)
 
 ### Current: 
  - An avid Machine Learning and Extended Reality Student / Researcher, at [Universität Würzburg](https://www.informatik.uni-wuerzburg.de/studium/studiengaenge/xtai-master-extended-artificial-intelligence/).
