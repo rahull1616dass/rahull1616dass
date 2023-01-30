@@ -12,7 +12,7 @@
 
 
 - VR Intern at [DigitalMedCare](https://digitalmedcare.de).
-- Metaverse Research Assistant under [Prof. Dr. Sebastian von Mammenr](http://hci.uni-wuerzburg.de/people/sebastian-von-mammen/) from the Faculty of Human computer interraction of Universität Würzburg on the project [FemtoPro](https://www.uni-wuerzburg.de/en/femtopro/femtopro/).
+- Metaverse Research Assistant under [Prof. Dr. Sebastian von Mammen](http://hci.uni-wuerzburg.de/people/sebastian-von-mammen/) from the Faculty of Human computer interraction of Universität Würzburg on the project [FemtoPro](https://www.uni-wuerzburg.de/en/femtopro/femtopro/).
 - Having more than 4 years experince with 3 different companies in India, namely ["Teks Mobile"](https://teksmobile.com/), ["RedApple"](https://www.redappletech.com//) and ["Games2Win"](https://games2winmedia.com/our-games/)
 
 
